@@ -1,0 +1,98 @@
+id,state_name,abbreviation,country
+1,Alabama,AL,United States
+2,Alaska,AK,United States
+3,Arizona,AZ,United States
+4,Arkansas,AR,United States
+5,California,CA,United States
+6,Colorado,CO,United States
+7,Connecticut,CT,United States
+8,Delaware,DE,United States
+9,Florida,FL,United States
+10,Georgia,GA,United States
+11,Hawaii,HI,United States
+12,Idaho,ID,United States
+13,Illinois,IL,United States
+14,Indiana,IN,United States
+15,Iowa,IA,United States
+16,Kansas,KS,United States
+17,Kentucky,KY,United States
+18,Louisiana,LA,United States
+19,Maine,ME,United States
+20,Maryland,MD,United States
+21,Massachusetts,MA,United States
+22,Michigan,MI,United States
+23,Minnesota,MN,United States
+24,Mississippi,MS,United States
+25,Missouri,MO,United States
+26,Montana,MT,United States
+27,Nebraska,NE,United States
+28,Nevada,NV,United States
+29,New Hampshire,NH,United States
+30,New Jersey,NJ,United States
+31,New Mexico,NM,United States
+32,New York,NY,United States
+33,North Carolina,NC,United States
+34,North Dakota,ND,United States
+35,Ohio,OH,United States
+36,Oklahoma,OK,United States
+37,Oregon,OR,United States
+38,Pennsylvania,PA,United States
+39,Rhode Island,RI,United States
+40,South Carolina,SC,United States
+41,South Dakota,SD,United States
+42,Tennessee,TN,United States
+43,Texas,TX,United States
+44,Utah,UT,United States
+45,Vermont,VT,United States
+46,Virginia,VA,United States
+47,Washington,WA,United States
+48,West Virginia,WV,United States
+49,Wisconsin,WI,United States
+50,Wyoming,WY,United States
+51,Alberta,AB,Canada
+52,British Columbia,BC,Canada
+53,Manitoba,MB,Canada
+54,New Brunswick,NB,Canada
+55,Newfoundland and Labrador,NL,Canada
+56,Nova Scotia,NS,Canada
+57,Ontario,ON,Canada
+58,Prince Edward Island,PE,Canada
+59,Quebec,QC,Canada
+60,Saskatchewan,SK,Canada
+61,Northwest Territories,NT,Canada
+62,Nunavut,NU,Canada
+63,Yukon,YT,Canada
+64,Andhra Pradesh,AP,India
+65,Arunachal Pradesh,AR,India
+66,Assam,AS,India
+67,Bihar,BR,India
+68,Chhattisgarh,CG,India
+69,Goa,GA,India
+70,Gujarat,GJ,India
+71,Haryana,HR,India
+72,Himachal Pradesh,HP,India
+73,Jharkhand,JH,India
+74,Karnataka,KA,India
+75,Kerala,KL,India
+76,Madhya Pradesh,MP,India
+77,Maharashtra,MH,India
+78,Manipur,MN,India
+79,Meghalaya,ML,India
+80,Mizoram,MZ,India
+81,Nagaland,NL,India
+82,Odisha,OR,India
+83,Punjab,PB,India
+84,Rajasthan,RJ,India
+85,Sikkim,SK,India
+86,Tamil Nadu,TN,India
+87,Telangana,TG,India
+88,Tripura,TR,India
+89,Uttar Pradesh,UP,India
+90,Uttarakhand,UK,India
+91,West Bengal,WB,India
+92,Andaman and Nicobar Islands,AN,India
+93,Chandigarh,CH,India
+94,Dadra and Nagar Haveli and Daman and Diu,DN,India
+95,Lakshadweep,LD,India
+96,Delhi,DL,India
+97,Puducherry,PY,India
